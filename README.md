@@ -35,21 +35,10 @@ I’m passionate about building scalable full-stack applications and automating 
 ## 🛠️ Tech & Tools  
 
 **Languages & Frameworks**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)  
-![React](https://img.shields.io/badge/-React-blue?logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)  
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb)  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)  ![React](https://img.shields.io/badge/-React-blue?logo=react)  ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)  ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)  ![MongoDB](https://img.shields.io/badge/-MongoDB-darkgreen?logo=mongodb)  ![Python](https://img.shields.io/badge/-Python-blue?logo=python)  
 
 **DevOps & Cloud**  
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes)  
-![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform)  
-![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible)  
-![Jenkins](https://img.shields.io/badge/-Jenkins-red?logo=jenkins)  
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?logo=github-actions)  
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker)  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-blue?logo=kubernetes)  ![Terraform](https://img.shields.io/badge/-Terraform-purple?logo=terraform)  ![Ansible](https://img.shields.io/badge/-Ansible-black?logo=ansible)  ![Jenkins](https://img.shields.io/badge/-Jenkins-red?logo=jenkins)  ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazon-aws)  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?logo=github-actions)  
 
 ---
 
